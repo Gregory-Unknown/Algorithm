@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 std::string convert(std::string s, int numRows) {
         if (numRows == 1){
             return s;

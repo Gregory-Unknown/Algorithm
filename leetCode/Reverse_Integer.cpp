@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stack>
+#include <climits>
 
 int reverse(int x) {
     std::stack<int>st;
